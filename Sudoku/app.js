@@ -32,7 +32,6 @@ const solve = () => {
       url: 'https://solve-sudoku.p.rapidapi.com/',
       headers: {
         'content-type': 'application/json',
-        'x-rapidapi-key': 'd4dfe79e87msh88322936abc7757p14bab8jsn20b064227c9a',
         'x-rapidapi-host': 'solve-sudoku.p.rapidapi.com'
       },
       data: {
